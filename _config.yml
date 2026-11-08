@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "AI證件照計劃01.png"
+  name             : "楊承翰"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "哭馬累ㄅ"
+  location         : "臺灣 臺南市"
+  employer         : "國立成功大學 National Cheng Kung University"
+  uri              : chenghanyang.com
+  email            : "n66154136@gmail.com" 
 
   # Academic websites
   academia         : # URL

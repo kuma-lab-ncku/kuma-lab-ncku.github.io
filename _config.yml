@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : #可以放照片
-  names             : "指導教授"
-  name             : "林保均"
+  avatar           : false
+  #上面是可以放照片
+  name             : "指導教授：林保均"
   pronouns         : # example: "she/her"  
   bio              : " "
   location         : "臺灣 Taiwan"

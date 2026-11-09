@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Pao-Chun-Lin.webp"
-  name             : "楊承翰"
+  avatar           : #可以放照片
+  name             : "林保均"
   pronouns         : # example: "she/her"  
   bio              : " "
-  location         : "臺灣 臺南市"
+  location         : "臺灣 Taiwan"
   employer         : "國立成功大學 NCKU"
   uri              : https://kuma-lab-ncku.github.io/
   email            : "n66154136@gmail.com" 

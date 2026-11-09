@@ -24,6 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   # avatar           : #可以放照片
+  name             : "指導教授"
   name             : "林保均"
   pronouns         : # example: "she/her"  
   bio              : " "
